@@ -1,0 +1,21 @@
+React with Bootstrap
+--------------------
+bootstrap.css
+mdb.css
+styles.css
+
+JQuery.js
+popper.js
+bootstrap.js
+mdb.js
+
+
+npm install mdbootstrap
+npm install @fortawesome/fontawesome-free
+
+add Google link for icons in index.html
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css">
+
+
+
+
